@@ -1,9 +1,9 @@
 /*
  * Course: COEN 2220 - Programming 2
- * Name: [Your Name]
+ * Name: [Eduardo Vega]
  * Lab: Lab 8 - Big-O / Time Complexity
  * Description: Guided example - compare algorithm work patterns
- * Due date: [Date]
+ * Due date: [10/12/2026]
  */
 
 #include <iostream>
